@@ -35,7 +35,7 @@ Ubuntu 18.04 & below
 
 1. Open the terminal.
 
-2. Enter git clone https://github.com/jcromerohdz/toy_app
+2. Enter git clone https://github.com/jcromerohdz/rest-tester
 
 3. Navigate to the cloned repository.
 
