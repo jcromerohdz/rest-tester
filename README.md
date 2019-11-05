@@ -1,31 +1,54 @@
-# README
+# Microverse Project Title - Basic Routes, Views and Controllers [Collaborative Project]
+Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-rest-tester branch
+## Introduction.
 
-Things you may want to cover:
+In this project you will learn how to create and use routes for your application.
 
-* Ruby version
+Full task description: https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers.
 
-* System dependencies
+Microverse Adjustments
+You should complete the Sending Params with RestClient with your partner. You will complete the Rails Tutorial individually. Once you are finished with this project, continue working together with your coding partner on the next project. You must still remain in a video call with your partner during your independent work.
 
-* Configuration
+###  Ruby version
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rbenv 2.6.5
 
 
-Quiz: Which routes were just created (there are 7 of them)? More specifically, try to name the 7 actions and what they do. Now try to match these routes to the appropriate HTTP verbs and URLs (remember, some are created by using the same URL but a different HTTP verb).
+###  System dependencies
+
+Rails 6.0.0
+
+Yarn 1.19.1
+
+Ubuntu 18.04 & below
+
+###  Database creation
+
+###  Database initialization
+
+###  How to run the test suite
+
+###  Services (job queues, cache servers, search engines, etc.)
+
+###  Deployment instructions
+
+1. Open the terminal.
+
+2. Enter git clone https://github.com/jcromerohdz/toy_app
+
+3. Navigate to the cloned repository.
+
+4. Enter command "rails server" to start the app
+
+
+### ...
+
+
+
+#### Quiz: 
+
+Which routes were just created (there are 7 of them)? More specifically, try to name the 7 actions and what they do. Now try to match these routes to the appropriate HTTP verbs and URLs (remember, some are created by using the same URL but a different HTTP verb).
 
 1. Controller#Action
 users GET    /users(.:format)                        
@@ -51,3 +74,17 @@ PUT    /users/:id(.:format)
 DELETE /users/:id(.:format)                                                          
 
 9. users#destroy
+
+### Source
+
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers
+
+### Github Repo
+
+https://github.com/jcromerohdz/rest-tester
+
+#### Authors
+
+* [@Christian](https://github.com/jcromerohdz)
+
+* [@Gerald](https://github.com/geraldgsh)
