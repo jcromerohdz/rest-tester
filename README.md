@@ -17,7 +17,7 @@ rbenv 2.6.5
 
 ###  System dependencies
 
-Rails 6.0.0
+Rails 6.0.1
 
 Yarn 1.19.1
 
